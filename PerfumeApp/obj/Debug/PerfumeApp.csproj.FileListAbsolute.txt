@@ -1,0 +1,7 @@
+C:\Users\anilc\Desktop\Ders\Bahar2020-2021\BLG252E - Object Oriente Programming\final\Perfume\PerfumeApp\PerfumeApp\bin\Debug\PerfumeApp.exe.config
+C:\Users\anilc\Desktop\Ders\Bahar2020-2021\BLG252E - Object Oriente Programming\final\Perfume\PerfumeApp\PerfumeApp\bin\Debug\PerfumeApp.exe
+C:\Users\anilc\Desktop\Ders\Bahar2020-2021\BLG252E - Object Oriente Programming\final\Perfume\PerfumeApp\PerfumeApp\bin\Debug\PerfumeApp.pdb
+C:\Users\anilc\Desktop\Ders\Bahar2020-2021\BLG252E - Object Oriente Programming\final\Perfume\PerfumeApp\PerfumeApp\obj\Debug\PerfumeApp.csprojAssemblyReference.cache
+C:\Users\anilc\Desktop\Ders\Bahar2020-2021\BLG252E - Object Oriente Programming\final\Perfume\PerfumeApp\PerfumeApp\obj\Debug\PerfumeApp.csproj.CoreCompileInputs.cache
+C:\Users\anilc\Desktop\Ders\Bahar2020-2021\BLG252E - Object Oriente Programming\final\Perfume\PerfumeApp\PerfumeApp\obj\Debug\PerfumeApp.exe
+C:\Users\anilc\Desktop\Ders\Bahar2020-2021\BLG252E - Object Oriente Programming\final\Perfume\PerfumeApp\PerfumeApp\obj\Debug\PerfumeApp.pdb
